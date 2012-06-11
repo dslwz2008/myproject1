@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ThrowAndCatchActivity!</string>
+    <string name="app_name">ThrowAndCatch v1.0 Beta</string>
+    <string name="image_assets">image1.jpg</string>
+    <string name="video_assets">video1.mp4</string>
+    <string name="send_label">发送数据</string>
+    <string name="receive_label">接收数据</string>
+    <string name="setting_label">设置</string>
+    <string name="settingdlg_message">请设置服务器地址：</string>
+    <string name="error_title">哎呀!出错了！</string>
+    <string name="error_sdcard">请先挂载SD卡！</string>
+    <string name="error_mkdir">创建文件夹失败！</string>
+    <string name="error_server_connection">请先设置正确的服务器地址！</string>
+    <string name="error_send_mode">请确认位于设备文件夹中！</string>
+    <string name="error_receive_mode">请确认位于服务端文件夹中！</string>
+    <string name="no_content">没有选择内容</string>
+    <string name="wanted_pic">要打开的图片</string>
+    <string name="error_number_too_big">数字太大了，请输入正确的数字！</string>
+    <string name="pic_JPEG">jpg</string>
+    <string name="pic_GIF">gif</string>
+    <string name="pic_PNG">png</string>
+    <string name="pic_Bitmap">bmp</string>
+    <string name="vid_3GPP">3gp</string>
+    <string name="vid_MPEG_4">mp4</string>
+    <string name="tab_image">图片</string>
+    <string name="tab_files">文件</string>
+    <string name="tab_video">视频</string>
+    <string name="tab_server">服务器</string>
+    <string name="url_server">http://%s:10002/</string>
+    <string name="url_folder_content">http://%s:10002/FolderContent/</string>
+    <string name="url_test">http://%s:10002/Test/</string>
+    <string name="description_tabheader_icon">图标</string>
+    <string name="preference_title">设置</string>
+    <string name="select_all">全选</string>
+    <string name="select_someone">部分选择</string>
+    <string name="select_none">全不选</string>
+    <string name="selectmode_title">选择模式设置</string>
+    <string name="lbl_btnOk">OK</string>
+    <string name="lbl_btnCancel">Cancel</string>
+    <string name="lbl_select_from_start">选择前多少张？</string>
+    <string name="lbl_select_from_end">选择后多少张？</string>
+    <string name="lbl_extra_start">start</string>
+    <string name="lbl_extra_end">end</string>
+    <string name="lbl_extra_count">count</string>
+    <string name="select_file">选择文件夹</string>
+    <string name="location">位置</string>
+    <string name="cant_read_folder">不能读取文件夹</string>
+    <string name="select">选择</string>
+    <string name="file_name">File name:</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Save</string>
+    <string name="no_data">No Data</string>
+    <string name="lbl_gotoselect">请单击按钮选择数据文件夹</string>
+    <string name="lbl_select_dir">选择文件夹</string>
+    <string name="str_server_url">serverUrl</string>
+    <string name="str_local_data_path">localDataPath</string>
+    <string name="str_start_path">/sdcard</string>
+
+</resources>
